@@ -36,13 +36,13 @@
                   <ul class="navbar-nav">
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">MyCause</a>
                       <ul class="dropdown-menu">
-                        <li class="nav-item"><a class="dropdown-item" href="introduction.php">Introduction</a></li>
-                        <li class="nav-item"><a class="dropdown-item" href="why-mycause.php">Why MyCause</a></li>
-                        <li class="nav-item"><a class="dropdown-item" href="mission-and-vision.php">Mission & Vision</a></li>
-                        <li class="nav-item"><a class="dropdown-item" href="our-values.php">Core Values</a></li>
+                        <li class="nav-item"><a class="dropdown-item" href="introduction.html">Introduction</a></li>
+                        <li class="nav-item"><a class="dropdown-item" href="why-mycause.html">Why MyCause</a></li>
+                        <li class="nav-item"><a class="dropdown-item" href="mission-and-vision.html">Mission & Vision</a></li>
+                        <li class="nav-item"><a class="dropdown-item" href="our-values.html">Core Values</a></li>
 
                         <li class="nav-item">
-                          <a class="dropdown-item" href="pricing.php">Pricing</a>
+                          <a class="dropdown-item" href="pricing.html">Pricing</a>
                         </li>
                         
                       </ul>
@@ -50,13 +50,13 @@
 
                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Programs</a>
                   <ul class="dropdown-menu">
-                    <li class="nav-item"><a class="dropdown-item" href="ration-bank.php">Ration Bank</a></li>
+                    <li class="nav-item"><a class="dropdown-item" href="ration-bank.html">Ration Bank</a></li>
                     <li class="nav-item"><a class="dropdown-item" href="#">Healthcare</a></li>
                   </ul>
                 </li>
 
-                 <li class="nav-item"><a class="nav-link" href="how-it-works.php">How it Works</a></li>
-                 <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
+                 <li class="nav-item"><a class="nav-link" href="how-it-works.html">How it Works</a></li>
+                 <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact</a></li>
                   </ul>
                   <!-- /.navbar-nav -->
                   <div class="offcanvas-footer d-lg-none">

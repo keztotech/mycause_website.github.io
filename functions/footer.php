@@ -37,11 +37,11 @@
           <div class="widget">
             <h4 class="widget-title text-dark mb-3" style="font-weight: 600;">Learn More</h4>
             <ul class="list-unstyled  mb-0">
-              <li><a class="text-dark hover-2" href="ration-bank.php">Ration Bank</a></li>
-              <li><a class="text-dark hover-2" href="how-it-works.php">How MyCause Works</a></li>
-              <li><a class="text-dark hover-2" href="why-mycause.php">Why MyCause</a></li>
-              <li><a class="text-dark hover-2" href="questions.php">Common Question</a></li>
-              <li><a class="text-dark hover-2" href="pricing.php">Pricing</a></li>
+              <li><a class="text-dark hover-2" href="ration-bank.html">Ration Bank</a></li>
+              <li><a class="text-dark hover-2" href="how-it-works.html">How MyCause Works</a></li>
+              <li><a class="text-dark hover-2" href="why-mycause.html">Why MyCause</a></li>
+              <li><a class="text-dark hover-2" href="questions.html">Common Question</a></li>
+              <li><a class="text-dark hover-2" href="pricing.html">Pricing</a></li>
             </ul>
           </div>
         </div>
@@ -51,10 +51,10 @@
           <div class="widget">
             <h4 class="widget-title text-dark mb-3" style="font-weight: 600;">Resources</h4>
             <ul class="list-unstyled mb-0">
-              <li><a class="text-dark hover-2" href="career.php">Career</a></li>
-              <li><a class="text-dark hover-2" href="introduction.php">MyCause Introduction</a></li>
-              <li><a class="text-dark hover-2" href="mission-and-vision.php">Mission &amp; Vision</a></li>
-              <li><a class="text-dark hover-2" href="our-values.php">Our Core Values</a></li>
+              <li><a class="text-dark hover-2" href="career.html">Career</a></li>
+              <li><a class="text-dark hover-2" href="introduction.html">MyCause Introduction</a></li>
+              <li><a class="text-dark hover-2" href="mission-and-vision.html">Mission &amp; Vision</a></li>
+              <li><a class="text-dark hover-2" href="our-values.html">Our Core Values</a></li>
               <li><a class="text-dark hover-2" href="#">Blog</a></li>
             </ul>
           </div>

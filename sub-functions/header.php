@@ -38,7 +38,7 @@
                       <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">MyCause</a>
                       <ul class="dropdown-menu">
                         <li class="nav-item">
-                          <a class="dropdown-item" href="./introduction.php">Introduction</a>
+                          <a class="dropdown-item" href="./introduction.html">Introduction</a>
                         </li>
                         <li class="nav-item"><a class="dropdown-item" href="why-mycause.html">Why MyCause</a></li>
                         <li class="nav-item"><a class="dropdown-item" href="mission-and-vision.html">Mission & Vision</a></li>
@@ -53,7 +53,7 @@
 
                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Programs</a>
                   <ul class="dropdown-menu">
-                    <li class="nav-item"><a class="dropdown-item" href="ration-bank.php">Ration Bank</a></li>
+                    <li class="nav-item"><a class="dropdown-item" href="ration-bank.html">Ration Bank</a></li>
                     <li class="nav-item"><a class="dropdown-item" href="#">Healthcare</a></li>
                   </ul>
                 </li>
